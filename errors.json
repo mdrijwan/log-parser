@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 1628475171259,
+    "loglevel": "error",
+    "transactionId": "9abc55b2-807b-4361-9dbe-aa88b1b2e978",
+    "err": "Not found"
+  },
+  {
+    "timestamp": 1631153571259,
+    "loglevel": "error",
+    "transactionId": "9abc55b2-807b-4361-9dbe-aa88b1b2e979",
+    "err": "Unauthorized"
+  },
+  {
+    "timestamp": 1633745571259,
+    "loglevel": "error",
+    "transactionId": "9abc55b2-807b-4361-9dbe-aa88b1b2e980",
+    "err": "Forbidden"
+  }
+]
