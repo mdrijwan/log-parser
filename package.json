@@ -1,0 +1,22 @@
+{
+  "name": "mayd",
+  "version": "1.0.0",
+  "description": "Node CLI to parse log",
+  "main": "parder.js",
+  "scripts": {
+    "start": "node parser.js"
+  },
+  "keywords": [
+    "Node",
+    "Parse",
+    "Log",
+    "JSON",
+    "Output",
+    "mdrijwan"
+  ],
+  "author": "Md Rijwan Razzaq Matin",
+  "license": "ISC",
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
